@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  darkMode: "class",
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
