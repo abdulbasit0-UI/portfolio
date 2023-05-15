@@ -245,14 +245,14 @@ export default function Home() {
             <Skills title="Html" imageUrl={"html-logo.png"} />
             <Skills title="Css" imageUrl={"css-logo.png"} />
             <Skills title="Sass" imageUrl={"sass-logo.png"} />
-            <Skills title="Bootstrap" imageUrl={"bootstrap-logo.png"} />
+            <Skills title="Bootstrap" imageUrl={"bootstrap-logo-1.png"} />
             <Skills
               title="Next Js"
               imageUrl={
                 theme === "dark" ? "nextjs-logo.svg.png" : "next-logo.png"
               }
             />
-            <Skills title="Git" imageUrl={"git-logo.png"} />
+            <Skills title="Git" imageUrl={"git-logo-1.png"} />
             <Skills title="React" imageUrl={"react-logo.png"} />
             <Skills title="Progresive Web Apps" imageUrl={"pwa-icon.webp"} />
             <Skills title="Testing" imageUrl={"testing-logo.png"} />
