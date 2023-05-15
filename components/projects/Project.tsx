@@ -21,7 +21,7 @@ const Project = ({
         alt="Portfolio "
       />
       <a
-        href={`${projectLink}`}
+        target="_blank" rel="noreferrer" href={`${projectLink}`}
         className="bg-blue-500 hover:bg-white text-white hover:text-secondary  rounded-lg transition-all mt-5 px-10 py-3 block"
       >
         View Website

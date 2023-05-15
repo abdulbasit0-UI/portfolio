@@ -290,17 +290,17 @@ export default function Home() {
           <div className="grid sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-2 grid-cols-1 gap-4">
             <Project
               projectImage="portfolio-1.png"
-              projectLink="#"
+              projectLink="https://carque.co.za"
               prokectTitle="Carque"
             />
             <Project
               projectImage="portfolio-5.png"
-              projectLink="#"
+              projectLink="https://optimumwellness.co.za/"
               prokectTitle="Optimum Wellness"
             />
             <Project
               projectImage="portfolio-6.png"
-              projectLink="#"
+              projectLink="https://optimumgold.co.za"
               prokectTitle="Optimum Gold"
             />
             <Project
